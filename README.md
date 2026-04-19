@@ -3,8 +3,7 @@
 ##  Overview
 This project is a **Flask-based personalized health recommendation web application** that provides customized lifestyle and medical advice based on user inputs. The system collects user data such as age, BMI, activity level, smoking habits, and existing medical conditions, and generates **rule-based health recommendations** in real-time. It demonstrates the integration of **web development, data processing, and healthcare logic** into an interactive application.
 
-## Link for the web portal: https://personalized-health-chatbot.onrender.com/
-(Released using Render)
+## Link for the web portal (Released using Render): https://personalized-health-chatbot.onrender.com/
 ---
 
 ## Objectives
